@@ -1,6 +1,6 @@
 # Seitan Music
 
-Il s'agit d'une version complète d'un bot personnel Seitan Music développer en discord.js v12. L'entièreté du code est fonctionnelle, le handler également (ancienne version simple utilisée).
+Il s'agit d'une version complète d'un bot personnel Seitan Music développer en discord.js v12 qui peut prendre que des music venant de Youtube. L'entièreté du code est fonctionnelle, le handler également (ancienne version simple utilisée).
 
 **Bien que cette version du code était fonctionnelle, discord a modifier leur librairie pour n'inclure uniquement des commandes slash `/` autrement dit, le bot ne marchera plus car il dispose que des commandes dites "préfixe".*
 
